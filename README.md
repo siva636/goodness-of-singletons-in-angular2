@@ -1,4 +1,4 @@
-#Goodness of singletons in Angular 2
+#Goodness of Singletons in Angular 2
 
 ##What are singletons?
 Singletons are object instances, but guaranteed to be a single instance per object in a particular context. After an instance is created and used, it is cached and kept, and when it is required again, the same instance is retrieved.
